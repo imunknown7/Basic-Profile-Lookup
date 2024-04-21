@@ -34,6 +34,7 @@ let data = [
     }
 ];
 
+
 function lookUp() {
     let found = false;
     for (let i = 0; i < data.length; i++) {
